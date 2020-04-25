@@ -1,4 +1,0 @@
-(executable
- (public_name sexparser)
- (name main)
- (libraries sexparser core))

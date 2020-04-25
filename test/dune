@@ -1,2 +1,3 @@
 (test
- (name sexparser))
+ (name sexparser)
+ (libraries core))
